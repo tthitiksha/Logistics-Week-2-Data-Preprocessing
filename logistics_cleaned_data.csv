@@ -1,0 +1,501 @@
+Order_ID,Shipping_Mode,Order_Region,Shipping_Days_Actual,Shipping_Days_Scheduled,Order_Quantity,Sales,Delivery_Status
+1001,First Class,North,6.0,4,2,6189.0,Early
+1002,Same Day,East,1.0,7,3,6357.0,On Time
+1003,Standard Class,East,9.0,3,5,7805.0,On Time
+1004,First Class,South,1.0,9,8,3819.0,Early
+1005,First Class,North,5.0,7,10,402.0,Late
+1006,Same Day,East,4.0,7,7,1086.0,Late
+1007,Standard Class,South,13.0,9,7,4540.0,On Time
+1008,Standard Class,North,12.0,8,7,5009.0,On Time
+1009,First Class,South,13.0,8,8,3172.0,Early
+1010,Second Class,West,13.0,3,1,3224.0,On Time
+1011,First Class,East,14.0,7,4,5561.0,Early
+1012,First Class,West,3.0,4,6,5561.0,Late
+1013,First Class,North,13.0,5,9,5561.0,Late
+1014,First Class,West,6.0,3,2,5561.0,Early
+1015,Same Day,West,2.0,6,1,5561.0,On Time
+1016,Standard Class,North,3.0,9,10,5561.0,Late
+1017,Same Day,South,5.0,7,2,5561.0,On Time
+1018,Same Day,West,9.0,3,7,5561.0,Late
+1019,Same Day,South,2.0,2,3,5561.0,Early
+1020,First Class,West,10.0,2,10,5561.0,Early
+1021,Second Class,South,8.0,8,2,5308.0,Early
+1022,Standard Class,North,14.0,9,7,7024.0,Late
+1023,Second Class,West,2.0,5,2,3928.0,On Time
+1024,Same Day,North,11.0,4,3,3330.0,On Time
+1025,Same Day,West,13.0,5,7,588.0,On Time
+1026,Second Class,North,5.0,5,4,7214.0,Late
+1027,Second Class,North,7.0,5,1,9639.0,Late
+1028,Second Class,West,8.0,9,5,3273.0,Late
+1029,Same Day,West,1.0,5,9,1767.0,Late
+1030,Same Day,West,6.0,6,8,9929.0,Late
+1031,Same Day,East,1.0,9,9,4214.0,On Time
+1032,Same Day,South,2.0,6,10,3653.0,Late
+1033,Same Day,East,1.0,9,9,7861.0,Late
+1034,Same Day,East,11.0,8,7,1100.0,On Time
+1035,Same Day,North,5.0,3,4,9142.0,Late
+1036,Standard Class,West,10.0,2,5,1488.0,On Time
+1037,Same Day,South,9.0,5,1,5550.0,On Time
+1038,Standard Class,North,6.0,8,1,3812.0,Early
+1039,Standard Class,East,11.0,3,3,1467.0,Early
+1040,First Class,West,11.0,2,8,8289.0,Early
+1041,First Class,North,21.5,7,2,9113.0,Early
+1042,First Class,West,21.5,4,4,554.0,Late
+1043,Second Class,North,1.0,6,2,9916.0,Early
+1044,Same Day,West,2.0,7,5,2872.0,On Time
+1045,Same Day,East,9.0,9,9,3826.0,Late
+1046,Same Day,South,3.0,2,1,7332.0,Early
+1047,Same Day,East,1.0,7,5,4906.0,On Time
+1048,First Class,South,5.0,4,9,2290.0,Late
+1049,Second Class,West,7.0,8,1,9208.0,Late
+1050,Second Class,North,6.0,2,9,2975.0,Early
+1051,First Class,East,12.0,7,8,5692.0,Late
+1052,Second Class,South,1.0,6,4,1540.0,On Time
+1053,First Class,East,5.0,6,10,9027.0,Late
+1054,Same Day,South,5.0,3,5,6159.0,On Time
+1055,First Class,East,6.0,7,5,7110.0,Late
+1056,Same Day,South,3.0,5,6,7217.0,Early
+1057,Same Day,South,5.0,7,7,9253.0,On Time
+1058,Standard Class,West,7.0,8,8,3089.0,Late
+1059,First Class,South,5.0,2,8,9318.0,Late
+1060,Standard Class,West,5.0,2,2,6328.0,Late
+1061,First Class,South,5.0,8,9,6571.0,On Time
+1062,First Class,North,10.0,7,7,2963.0,On Time
+1063,Standard Class,North,10.0,8,4,1277.0,On Time
+1064,Standard Class,North,3.0,4,4,4860.0,Early
+1065,First Class,South,1.0,9,8,111.0,Early
+1066,Second Class,West,5.0,8,4,5352.0,On Time
+1067,Same Day,West,14.0,6,6,4499.0,Late
+1068,Standard Class,South,9.0,8,5,8334.0,Early
+1069,Same Day,North,14.0,2,3,9235.0,On Time
+1070,Second Class,North,1.0,6,10,5545.0,Late
+1071,Second Class,West,3.0,2,2,6670.0,Early
+1072,Second Class,North,13.0,3,9,9296.0,Late
+1073,Standard Class,East,13.0,5,10,8312.0,Late
+1074,Second Class,West,4.0,2,9,506.0,Late
+1075,Standard Class,North,14.0,6,1,9306.0,Late
+1076,Second Class,West,1.0,3,10,4531.0,Early
+1077,Same Day,East,1.0,2,3,5343.0,Early
+1078,Same Day,West,8.0,4,8,6642.0,Early
+1079,First Class,West,2.0,8,6,7036.0,On Time
+1080,Same Day,West,12.0,5,5,9006.0,Early
+1081,First Class,West,8.0,2,5,4246.0,Late
+1082,Same Day,East,7.0,3,6,240.0,Early
+1083,Standard Class,South,10.0,4,7,4982.0,Late
+1084,Same Day,West,10.0,7,1,6112.0,On Time
+1085,First Class,West,2.0,3,9,1063.0,Late
+1086,First Class,North,6.0,8,3,7251.0,Late
+1087,Second Class,West,6.0,3,4,8664.0,Late
+1088,Standard Class,North,3.0,4,10,3710.0,On Time
+1089,Same Day,South,11.0,3,1,9984.0,Early
+1090,Second Class,East,2.0,4,10,6994.0,Early
+1091,Same Day,East,12.0,2,3,7411.0,On Time
+1092,Same Day,South,1.0,9,2,205.0,Late
+1093,Second Class,East,6.0,4,2,5639.0,Early
+1094,Second Class,South,12.0,4,1,9973.0,On Time
+1095,Second Class,South,5.0,5,8,6887.0,Early
+1096,Second Class,South,14.0,4,3,2237.0,On Time
+1097,Second Class,East,14.0,4,3,4545.0,Late
+1098,Same Day,North,11.0,7,6,3630.0,Early
+1099,Second Class,South,9.0,9,8,1386.0,On Time
+1100,Standard Class,West,1.0,2,9,7152.0,Early
+1101,First Class,East,7.0,8,9,3754.0,Early
+1102,Second Class,South,5.0,5,4,7202.0,Early
+1103,Second Class,South,5.0,7,5,2459.0,Early
+1104,Same Day,West,14.0,6,2,8205.0,On Time
+1105,Second Class,North,2.0,9,9,8736.0,Late
+1106,Second Class,North,11.0,2,8,6541.0,On Time
+1107,Second Class,North,3.0,2,3,5147.0,On Time
+1108,Same Day,South,7.0,6,9,8327.0,On Time
+1109,Second Class,South,6.0,8,3,5303.0,Late
+1110,First Class,South,12.0,4,9,9767.0,Early
+1111,Same Day,East,2.0,7,2,1898.0,Early
+1112,First Class,West,6.0,3,10,9700.0,Early
+1113,Same Day,South,2.0,5,9,5391.0,Late
+1114,Second Class,West,2.0,3,8,5595.0,Early
+1115,First Class,West,2.0,6,9,6384.0,Late
+1116,Same Day,North,14.0,2,5,7385.0,Early
+1117,Standard Class,East,11.0,8,2,1400.0,Early
+1118,Second Class,South,3.0,2,8,6969.0,On Time
+1119,Same Day,North,2.0,5,6,9535.0,Late
+1120,Standard Class,North,4.0,2,8,3197.0,On Time
+1121,Same Day,South,9.0,2,5,4716.0,On Time
+1122,Standard Class,West,6.0,5,10,109.0,On Time
+1123,Second Class,North,1.0,7,2,5852.0,Late
+1124,First Class,West,8.0,7,6,9952.0,Late
+1125,Standard Class,East,12.0,5,5,6395.0,Early
+1126,Same Day,West,14.0,8,5,4915.0,On Time
+1127,Second Class,East,7.0,6,1,1172.0,Early
+1128,Standard Class,West,10.0,9,2,3325.0,On Time
+1129,Same Day,North,3.0,2,8,1416.0,Late
+1130,Same Day,North,1.0,8,3,5799.0,Late
+1131,Same Day,East,5.0,2,10,6907.0,Late
+1132,Standard Class,South,13.0,9,3,6774.0,On Time
+1133,Standard Class,East,4.0,6,8,3783.0,Late
+1134,Standard Class,East,10.0,7,8,7327.0,On Time
+1135,First Class,West,8.0,8,2,3373.0,Early
+1136,Standard Class,West,1.0,4,8,7100.0,On Time
+1137,Standard Class,East,10.0,4,1,245.0,Early
+1138,Standard Class,North,1.0,9,6,5110.0,On Time
+1139,First Class,West,12.0,4,8,3140.0,Early
+1140,Standard Class,South,4.0,7,3,9754.0,Late
+1141,Same Day,West,8.0,9,8,9876.0,Early
+1142,Standard Class,West,5.0,7,1,582.0,Late
+1143,Same Day,South,2.0,6,9,3279.0,Late
+1144,Same Day,East,6.0,2,9,1349.0,Early
+1145,Same Day,South,5.0,6,5,730.0,On Time
+1146,First Class,East,2.0,6,10,8953.0,On Time
+1147,First Class,East,13.0,7,4,2952.0,On Time
+1148,First Class,East,14.0,9,6,1087.0,On Time
+1149,Standard Class,South,11.0,9,7,7722.0,On Time
+1150,Same Day,East,11.0,4,5,7427.0,Late
+1151,First Class,North,11.0,3,10,9838.0,On Time
+1152,First Class,South,3.0,2,9,8941.0,Late
+1153,Standard Class,North,9.0,7,3,9260.0,Late
+1154,First Class,East,7.0,4,7,1200.0,Late
+1155,Standard Class,West,7.0,8,10,6752.0,Early
+1156,Second Class,East,11.0,3,10,8732.0,Early
+1157,First Class,North,6.0,3,5,7521.0,Late
+1158,Second Class,North,8.0,7,7,5116.0,Early
+1159,Standard Class,South,4.0,5,2,869.0,On Time
+1160,Same Day,West,8.0,2,4,1443.0,On Time
+1161,First Class,South,4.0,3,2,4458.0,Late
+1162,Standard Class,North,8.0,7,7,9869.0,On Time
+1163,Same Day,East,9.0,7,2,6880.0,Late
+1164,Same Day,West,3.0,4,1,6702.0,Late
+1165,Second Class,East,3.0,8,9,2449.0,On Time
+1166,Standard Class,East,11.0,5,1,5799.0,Early
+1167,Same Day,West,13.0,2,8,1341.0,On Time
+1168,First Class,South,2.0,9,2,1225.0,On Time
+1169,First Class,East,13.0,6,8,9482.0,Late
+1170,Second Class,North,10.0,8,3,6864.0,Late
+1171,Same Day,East,3.0,8,6,5201.0,Late
+1172,Standard Class,West,3.0,4,3,7943.0,Late
+1173,First Class,West,5.0,9,7,172.0,Early
+1174,Same Day,West,5.0,3,10,5572.0,Early
+1175,Same Day,South,2.0,3,9,5289.0,Early
+1176,Second Class,East,12.0,4,2,2572.0,Late
+1177,First Class,South,10.0,7,5,807.0,Late
+1178,First Class,South,13.0,3,6,1904.0,Late
+1179,Standard Class,West,6.0,5,4,6804.0,Early
+1180,First Class,West,5.0,2,4,3813.0,Late
+1181,Standard Class,South,6.0,8,4,5151.0,On Time
+1182,First Class,East,1.0,8,2,2575.0,On Time
+1183,Second Class,North,5.0,5,4,3710.0,Late
+1184,First Class,South,9.0,9,1,4355.0,On Time
+1185,Standard Class,East,12.0,3,6,7497.0,On Time
+1186,Standard Class,West,10.0,8,1,1835.0,Early
+1187,Second Class,West,14.0,6,10,9877.0,Late
+1188,First Class,East,2.0,9,6,8358.0,Late
+1189,First Class,North,1.0,2,1,8079.0,Early
+1190,Second Class,West,14.0,2,6,2528.0,On Time
+1191,First Class,West,10.0,8,10,7526.0,On Time
+1192,First Class,West,13.0,4,8,8633.0,Late
+1193,Standard Class,East,11.0,9,2,5349.0,On Time
+1194,First Class,South,9.0,8,2,5391.0,Early
+1195,First Class,West,10.0,4,4,2917.0,Early
+1196,Second Class,South,9.0,8,3,9524.0,Late
+1197,Second Class,North,9.0,6,4,3974.0,Early
+1198,Same Day,West,6.0,9,7,9786.0,Early
+1199,Standard Class,West,8.0,7,1,4311.0,Late
+1200,First Class,North,14.0,2,6,761.0,Early
+1201,First Class,West,11.0,8,3,3474.0,Early
+1202,Same Day,South,13.0,6,10,9308.0,Early
+1203,First Class,East,1.0,4,7,307.0,On Time
+1204,Standard Class,South,10.0,4,10,2765.0,Late
+1205,Same Day,East,4.0,2,2,2593.0,Late
+1206,Standard Class,East,1.0,5,2,6913.0,Late
+1207,Same Day,South,8.0,8,4,732.0,On Time
+1208,Same Day,South,1.0,9,1,3183.0,On Time
+1209,Second Class,South,3.0,3,3,3819.0,Late
+1210,Standard Class,South,13.0,4,9,7223.0,On Time
+1211,First Class,North,4.0,9,7,1779.0,Late
+1212,First Class,West,8.0,9,7,336.0,On Time
+1213,Standard Class,East,6.0,7,4,7546.0,Early
+1214,First Class,South,14.0,9,2,4543.0,Early
+1215,First Class,South,10.0,9,4,6870.0,Late
+1216,Standard Class,South,12.0,7,6,9832.0,On Time
+1217,Same Day,North,7.0,4,3,6199.0,On Time
+1218,Standard Class,South,14.0,9,1,8655.0,Early
+1219,Same Day,South,8.0,5,8,2468.0,Early
+1220,First Class,South,2.0,5,5,385.0,On Time
+1221,First Class,West,13.0,6,5,248.0,On Time
+1222,First Class,North,10.0,7,4,4137.0,On Time
+1223,Second Class,South,14.0,6,6,6649.0,On Time
+1224,Same Day,East,11.0,7,3,7221.0,On Time
+1225,Second Class,East,8.0,8,9,4995.0,On Time
+1226,Second Class,East,3.0,8,5,5380.0,Late
+1227,Standard Class,North,7.0,9,3,1112.0,On Time
+1228,Second Class,North,3.0,3,1,9815.0,Early
+1229,Standard Class,East,7.0,8,10,2885.0,Late
+1230,Standard Class,South,14.0,3,6,3825.0,On Time
+1231,Second Class,North,11.0,8,2,4676.0,Early
+1232,Same Day,East,12.0,2,3,5882.0,Late
+1233,Same Day,East,13.0,8,1,6357.0,Early
+1234,Same Day,South,2.0,6,9,9893.0,On Time
+1235,Same Day,West,10.0,4,8,2508.0,On Time
+1236,Same Day,North,6.0,9,2,440.0,On Time
+1237,Second Class,South,3.0,6,8,2917.0,On Time
+1238,Second Class,East,3.0,4,9,2596.0,Late
+1239,First Class,East,9.0,5,1,6062.0,Late
+1240,Same Day,South,7.0,6,5,5399.0,Early
+1241,Second Class,North,5.0,5,8,7674.0,On Time
+1242,First Class,West,12.0,3,2,1789.0,Early
+1243,Same Day,West,10.0,3,4,3367.0,Late
+1244,Standard Class,East,7.0,2,7,4506.0,On Time
+1245,First Class,North,9.0,8,3,8553.0,On Time
+1246,Second Class,West,1.0,6,5,1542.0,Late
+1247,Standard Class,North,7.0,5,8,8697.0,Late
+1248,Standard Class,North,6.0,4,10,4537.0,Late
+1249,Standard Class,East,10.0,3,3,5535.0,Late
+1250,First Class,West,14.0,8,4,8535.0,Late
+1251,Second Class,South,12.0,3,9,4207.0,On Time
+1252,Standard Class,East,9.0,4,7,660.0,Late
+1253,Same Day,West,1.0,8,1,8885.0,On Time
+1254,Standard Class,West,13.0,8,4,5648.0,On Time
+1255,Standard Class,West,4.0,5,4,1926.0,Late
+1256,First Class,West,9.0,5,9,7729.0,Late
+1257,First Class,West,4.0,6,6,8425.0,On Time
+1258,Second Class,North,10.0,6,9,3238.0,Late
+1259,Same Day,East,3.0,7,6,7793.0,Late
+1260,First Class,North,9.0,9,6,8364.0,Late
+1261,Standard Class,South,13.0,7,5,7942.0,Early
+1262,Second Class,West,2.0,2,5,6821.0,On Time
+1263,Standard Class,East,4.0,3,2,7102.0,Early
+1264,Standard Class,West,6.0,6,8,4325.0,Late
+1265,First Class,East,2.0,5,8,3078.0,Early
+1266,Second Class,North,8.0,4,1,7473.0,Late
+1267,Same Day,East,8.0,5,8,6007.0,Early
+1268,Same Day,South,1.0,3,5,6197.0,Late
+1269,First Class,South,12.0,7,2,5756.0,Early
+1270,First Class,East,3.0,5,2,9084.0,Early
+1271,Second Class,East,10.0,9,6,4359.0,Early
+1272,Same Day,East,9.0,2,9,8386.0,On Time
+1273,Same Day,East,5.0,3,1,6001.0,Early
+1274,Same Day,South,6.0,7,6,9425.0,On Time
+1275,Standard Class,West,4.0,9,9,5017.0,Late
+1276,Same Day,East,10.0,4,8,8529.0,Early
+1277,Standard Class,East,2.0,7,6,2630.0,Late
+1278,Second Class,South,11.0,8,3,2060.0,Late
+1279,Standard Class,South,8.0,9,8,7145.0,Early
+1280,Second Class,North,11.0,9,9,1148.0,On Time
+1281,Same Day,East,13.0,2,1,5872.0,Early
+1282,Same Day,North,6.0,3,9,2629.0,Late
+1283,Second Class,South,5.0,4,6,3064.0,Late
+1284,First Class,South,9.0,2,6,7237.0,Early
+1285,Second Class,West,1.0,7,4,1063.0,On Time
+1286,First Class,East,5.0,2,1,636.0,On Time
+1287,Standard Class,North,6.0,9,10,7440.0,Late
+1288,Standard Class,South,5.0,3,8,7279.0,Late
+1289,Standard Class,South,6.0,6,2,8067.0,On Time
+1290,Same Day,North,6.0,2,1,8834.0,Early
+1291,Standard Class,West,7.0,8,2,945.0,Late
+1292,First Class,South,4.0,2,1,5877.0,On Time
+1293,Standard Class,East,14.0,7,1,3136.0,Late
+1294,Second Class,South,11.0,7,9,6047.0,Early
+1295,Second Class,East,14.0,4,1,2594.0,On Time
+1296,Same Day,North,14.0,7,4,2819.0,Late
+1297,Second Class,East,14.0,5,10,1984.0,Early
+1298,First Class,North,8.0,3,6,4449.0,Late
+1299,Standard Class,East,7.0,3,7,5279.0,Early
+1300,Same Day,North,9.0,6,2,6710.0,Early
+1301,Standard Class,East,7.0,6,6,6530.0,On Time
+1302,Standard Class,West,3.0,3,7,7254.0,Early
+1303,First Class,East,3.0,8,10,6588.0,Late
+1304,Second Class,East,8.0,6,10,4837.0,Early
+1305,Second Class,West,5.0,4,2,6625.0,Early
+1306,Standard Class,South,4.0,7,2,3950.0,On Time
+1307,Same Day,South,8.0,3,10,789.0,Early
+1308,Second Class,East,6.0,9,7,5275.0,Early
+1309,Same Day,West,2.0,6,1,8748.0,Late
+1310,Second Class,East,4.0,3,8,5178.0,On Time
+1311,Same Day,North,12.0,5,3,5548.0,On Time
+1312,First Class,North,11.0,2,6,1279.0,On Time
+1313,Same Day,East,4.0,7,9,9174.0,Early
+1314,First Class,South,6.0,3,6,6506.0,On Time
+1315,First Class,South,6.0,2,9,8691.0,Early
+1316,Same Day,East,1.0,6,7,7007.0,Early
+1317,First Class,East,14.0,2,9,8900.0,Late
+1318,Standard Class,North,8.0,7,2,1738.0,Late
+1319,First Class,South,6.0,3,8,5771.0,Late
+1320,Second Class,East,3.0,5,8,7028.0,Late
+1321,Same Day,North,14.0,8,2,1482.0,Late
+1322,Standard Class,South,9.0,6,4,1503.0,Early
+1323,Same Day,West,2.0,3,7,9111.0,Early
+1324,Second Class,North,11.0,7,4,3392.0,On Time
+1325,Second Class,South,8.0,6,4,9111.0,Early
+1326,Second Class,South,10.0,4,6,519.0,Early
+1327,First Class,North,3.0,2,10,4617.0,Late
+1328,First Class,West,13.0,8,6,3402.0,Early
+1329,Same Day,North,12.0,7,10,7957.0,Late
+1330,Same Day,South,5.0,4,3,9800.0,On Time
+1331,Standard Class,East,6.0,9,9,7970.0,On Time
+1332,Standard Class,East,10.0,3,10,5793.0,Early
+1333,Same Day,North,6.0,5,2,867.0,On Time
+1334,First Class,South,4.0,6,6,2144.0,Early
+1335,Second Class,East,3.0,2,7,1649.0,On Time
+1336,Same Day,South,4.0,6,9,6240.0,Late
+1337,Standard Class,North,1.0,8,3,3816.0,Late
+1338,First Class,East,4.0,3,10,4581.0,Late
+1339,Same Day,South,1.0,6,3,7998.0,Late
+1340,Same Day,East,12.0,2,7,6648.0,Early
+1341,First Class,North,1.0,3,4,2393.0,On Time
+1342,Same Day,South,10.0,6,8,4937.0,Early
+1343,First Class,East,14.0,5,7,7858.0,Late
+1344,Second Class,North,6.0,7,5,6893.0,Early
+1345,First Class,East,5.0,3,7,7738.0,On Time
+1346,First Class,East,14.0,7,3,8093.0,Early
+1347,First Class,West,11.0,9,2,6107.0,On Time
+1348,Same Day,West,4.0,3,6,5642.0,Early
+1349,Same Day,North,13.0,5,2,9192.0,On Time
+1350,First Class,West,11.0,7,3,6456.0,On Time
+1351,Same Day,North,3.0,4,6,8533.0,Late
+1352,Standard Class,West,1.0,2,5,7480.0,On Time
+1353,Standard Class,East,6.0,4,8,2485.0,Late
+1354,Same Day,North,2.0,6,9,4368.0,Late
+1355,Same Day,North,8.0,5,3,771.0,Late
+1356,First Class,East,10.0,4,10,263.0,Early
+1357,Second Class,North,5.0,3,3,8756.0,Early
+1358,Same Day,North,7.0,6,3,4692.0,Early
+1359,Standard Class,West,10.0,6,6,4895.0,Early
+1360,First Class,North,12.0,4,1,4898.0,On Time
+1361,Same Day,South,2.0,9,7,6136.0,On Time
+1362,Standard Class,East,13.0,4,1,2455.0,Early
+1363,Standard Class,West,8.0,9,5,5987.0,On Time
+1364,Second Class,West,2.0,5,10,8061.0,On Time
+1365,First Class,South,4.0,2,8,5927.0,Late
+1366,First Class,East,1.0,4,4,8837.0,Late
+1367,Second Class,East,5.0,8,5,4819.0,Late
+1368,Second Class,West,9.0,9,4,693.0,Late
+1369,First Class,North,1.0,4,4,4939.0,On Time
+1370,First Class,West,9.0,7,8,7494.0,Early
+1371,Same Day,East,11.0,3,2,9751.0,On Time
+1372,Same Day,South,8.0,8,1,3593.0,On Time
+1373,Second Class,West,6.0,8,3,6264.0,On Time
+1374,Same Day,East,7.0,9,9,2772.0,Late
+1375,Standard Class,West,3.0,7,4,4300.0,Late
+1376,Same Day,North,14.0,7,10,116.0,Late
+1377,Same Day,West,1.0,6,5,3291.0,Early
+1378,Standard Class,West,5.0,9,2,492.0,On Time
+1379,Second Class,East,14.0,2,4,8716.0,Early
+1380,Standard Class,East,12.0,3,2,6372.0,Late
+1381,Same Day,East,12.0,5,2,671.0,Early
+1382,Second Class,West,2.0,8,4,3731.0,On Time
+1383,Same Day,North,14.0,5,6,6272.0,On Time
+1384,Standard Class,South,5.0,4,7,9412.0,Late
+1385,Standard Class,South,8.0,4,10,7277.0,Late
+1386,Same Day,East,11.0,5,3,8533.0,Early
+1387,First Class,East,9.0,4,3,3997.0,Late
+1388,First Class,West,2.0,2,10,8223.0,Late
+1389,Standard Class,South,12.0,7,6,2379.0,On Time
+1390,Standard Class,East,3.0,4,3,9080.0,Late
+1391,First Class,North,3.0,6,2,7551.0,Late
+1392,First Class,North,1.0,4,8,9006.0,On Time
+1393,Same Day,East,8.0,3,5,875.0,On Time
+1394,Same Day,East,6.0,2,1,6969.0,Early
+1395,First Class,South,12.0,3,3,2347.0,Late
+1396,Same Day,South,13.0,3,10,7188.0,On Time
+1397,Same Day,West,8.0,6,8,178.0,Early
+1398,Second Class,South,11.0,2,4,8180.0,Early
+1399,Same Day,North,9.0,2,7,7199.0,Late
+1400,Standard Class,North,5.0,9,10,4026.0,Late
+1401,Same Day,East,14.0,2,2,9147.0,Early
+1402,Same Day,South,12.0,2,7,7440.0,On Time
+1403,First Class,West,14.0,2,5,7183.0,Early
+1404,Standard Class,North,3.0,6,5,6330.0,Late
+1405,Same Day,North,5.0,4,6,9323.0,On Time
+1406,Same Day,West,5.0,9,9,5040.0,On Time
+1407,Second Class,West,5.0,3,6,3371.0,Early
+1408,Same Day,North,3.0,2,8,3556.0,Late
+1409,Same Day,North,11.0,8,7,7888.0,Early
+1410,Second Class,West,14.0,4,9,8699.0,Early
+1411,First Class,North,10.0,4,4,7750.0,Early
+1412,Same Day,East,14.0,3,2,2811.0,On Time
+1413,Second Class,East,4.0,6,7,1768.0,On Time
+1414,Standard Class,West,9.0,5,6,247.0,Late
+1415,First Class,South,13.0,5,1,6520.0,Late
+1416,Standard Class,West,10.0,4,9,465.0,Early
+1417,Standard Class,West,9.0,7,9,9966.0,Early
+1418,Second Class,South,2.0,7,2,4631.0,Early
+1419,Same Day,South,8.0,3,3,5430.0,Late
+1420,Second Class,South,8.0,5,5,5610.0,On Time
+1421,Second Class,East,7.0,4,5,8854.0,On Time
+1422,Second Class,North,8.0,6,1,9064.0,Early
+1423,Second Class,East,14.0,5,8,6593.0,Early
+1424,First Class,North,3.0,4,8,5539.0,Early
+1425,Same Day,East,13.0,4,4,9865.0,Early
+1426,Standard Class,North,6.0,2,7,6611.0,Late
+1427,Standard Class,East,1.0,6,10,7604.0,On Time
+1428,Same Day,South,7.0,2,3,1346.0,Early
+1429,Standard Class,West,1.0,3,6,3939.0,Late
+1430,Same Day,East,9.0,2,10,8651.0,Early
+1431,Standard Class,North,1.0,8,10,2476.0,Early
+1432,Second Class,South,1.0,2,9,3109.0,On Time
+1433,Standard Class,East,7.0,8,1,9254.0,Early
+1434,Same Day,East,2.0,5,5,1927.0,On Time
+1435,Same Day,South,14.0,7,4,7079.0,On Time
+1436,Same Day,East,5.0,9,8,9905.0,On Time
+1437,Same Day,West,8.0,9,1,9932.0,Late
+1438,Same Day,East,8.0,4,9,8669.0,Late
+1439,First Class,West,3.0,9,6,4385.0,On Time
+1440,First Class,West,7.0,8,4,7010.0,Early
+1441,Standard Class,South,3.0,6,9,8661.0,On Time
+1442,Same Day,East,6.0,2,5,2296.0,Early
+1443,Standard Class,South,6.0,8,5,3847.0,On Time
+1444,Same Day,East,3.0,6,5,8943.0,Early
+1445,Same Day,East,7.0,7,1,6078.0,Late
+1446,First Class,North,3.0,9,1,5707.0,Early
+1447,First Class,East,8.0,7,8,869.0,On Time
+1448,Second Class,South,10.0,9,8,880.0,Late
+1449,First Class,West,4.0,2,6,6403.0,Early
+1450,Second Class,East,13.0,3,4,4083.0,Early
+1451,Second Class,North,1.0,2,2,9603.0,Early
+1452,Second Class,South,4.0,5,2,8814.0,Early
+1453,Second Class,East,14.0,8,9,621.0,Early
+1454,Second Class,South,7.0,4,5,9227.0,Late
+1455,Standard Class,North,11.0,3,4,7669.0,Late
+1456,First Class,North,4.0,2,10,5884.0,Late
+1457,Second Class,South,13.0,6,1,4683.0,Late
+1458,Same Day,East,6.0,3,7,6046.0,On Time
+1459,First Class,West,9.0,8,3,5041.0,Late
+1460,First Class,North,1.0,9,6,6367.0,Early
+1461,Second Class,East,13.0,3,5,7228.0,Early
+1462,Standard Class,East,5.0,9,5,2561.0,Late
+1463,Second Class,West,11.0,8,5,785.0,Early
+1464,Standard Class,North,7.0,2,1,2260.0,Late
+1465,Same Day,North,1.0,8,1,7131.0,Early
+1466,First Class,East,14.0,3,3,9859.0,On Time
+1467,Same Day,East,4.0,6,10,5441.0,On Time
+1468,Standard Class,West,6.0,7,4,138.0,Late
+1469,Standard Class,West,2.0,3,5,4975.0,Late
+1470,Same Day,North,10.0,8,2,1356.0,Late
+1471,Standard Class,South,5.0,7,8,7797.0,Early
+1472,Same Day,North,11.0,8,2,2296.0,Late
+1473,First Class,East,10.0,6,9,7265.0,On Time
+1474,Same Day,North,1.0,8,2,401.0,Early
+1475,First Class,South,6.0,2,9,7627.0,Late
+1476,Same Day,West,6.0,4,7,6481.0,Early
+1477,Standard Class,South,13.0,9,8,746.0,Early
+1478,Same Day,South,4.0,9,2,8889.0,Late
+1479,Standard Class,South,13.0,3,7,8953.0,Early
+1480,Same Day,West,8.0,4,6,4430.0,On Time
+1481,Same Day,South,4.0,8,4,9660.0,On Time
+1482,Second Class,South,8.0,6,7,7103.0,Early
+1483,Standard Class,South,13.0,3,4,3637.0,Late
+1484,Second Class,East,8.0,8,2,4658.0,Early
+1485,Standard Class,South,5.0,7,10,6679.0,On Time
+1486,Second Class,West,13.0,5,7,8574.0,Early
+1487,First Class,South,4.0,8,8,9778.0,Early
+1488,Same Day,South,12.0,4,2,4182.0,On Time
+1489,Standard Class,West,13.0,3,5,4283.0,Early
+1490,Standard Class,South,2.0,4,1,8752.0,Early
+1491,Same Day,West,11.0,3,7,3854.0,Late
+1492,Standard Class,South,3.0,8,8,1824.0,Late
+1493,Standard Class,West,3.0,2,6,1476.0,On Time
+1494,Second Class,South,4.0,7,5,8806.0,On Time
+1495,Standard Class,South,4.0,8,6,8994.0,On Time
+1496,First Class,East,10.0,9,2,1753.0,Late
+1497,First Class,East,11.0,4,1,2166.0,On Time
+1498,Same Day,South,11.0,5,7,122.0,On Time
+1499,Standard Class,South,5.0,5,7,2560.0,On Time
+1500,Same Day,North,4.0,6,10,6026.0,Late
